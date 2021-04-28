@@ -10,11 +10,28 @@ Also, as a future dog parent, understanding the difference between breeds and ge
 
 
 ### Dataset & Data Preprocessing 
-The dataset is from [Stanford University](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html), with a total of 20580 images and 120 breeds. Also, we can do one extra step to help us better understand the difference between dogs, which is to use the American Kennel Club's [List of Breeds by Group](https://www.akc.org/public-education/resources/general-tips-information/dog-breeds-sorted-groups/) information to assign 120 breeds into nine groups. By doing that, we may able to discover more insights about puppies. 
-
+The dataset is from [Stanford University](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html), with a total of 20580 images and 120 breeds. Also, we can do one extra step to help us better understand the difference between dogs, which is to use the American Kennel Club's [List of Breeds by Group](https://www.akc.org/public-education/resources/general-tips-information/dog-breeds-sorted-groups/) information to assign 120 breeds into 9 groups. By doing that, we may able to discover more insights about puppies. 
 
 <img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/Sample_Puppy.PNG" width="500" height="500">
 
+### Convolutional Neural Network (CNN) Baseline Model
 
+We will try to build a CNN model from scratch and here is the structure of this project. 
 
- 
+The CNN consists of 3 layers:
+1. Convolution (filter)
+      * Scan through the image to get **features** of an image
+      * Try to detect edge & shape 
+      * <img src="https://github.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/blob/main/Images/CNN%20Layers%20Explain/Convolution.PNG" width="434" height="200">
+2. Pooling
+      * Get the most important feature
+      * Reduce dimensions of data (image)
+      * <img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN%20Layers%20Explain/Pooling.PNG" width="200" height="200">
+3. Fully Connected
+      * To generate output 
+      * Make prediction with associate features
+      * <img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN%20Layers%20Explain/Fully_Connected.PNG" width="441" height="241">
+
+Our final CNN baseline model consists of 5 layers. 
+
+<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN_Baseline.PNG" width="960" height="354">
