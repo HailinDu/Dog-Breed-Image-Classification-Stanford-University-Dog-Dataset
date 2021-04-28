@@ -35,7 +35,7 @@ The CNN consists of 3 layers:
 
 Our final CNN baseline model consists of 5 layers. With a total of 4 filter and pooling layers and 1 fully connected layer.
 
-<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN_Baseline.PNG" width="930" height="344">
+<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN_Baseline.PNG" width="600" height="214">
 
 ### Transfer Learning - Inception V3 Model
 Inception V3 Model is a pre-trained model on more than a million images, 1,000 classes from the ImageNet database developed by Google. It has stacked layers compare to the traditional CNN model and it is up to 48 layers. V3 here means version 3.
