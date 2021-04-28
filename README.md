@@ -47,7 +47,7 @@ The core idea of Inception V3:
 <img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN%20Layers%20Explain/InceptionV3.png" width="802" height="392">
 
 ### CNN Baseline Performance VS. Inception V3 Performance
-CNN Model Accuracy
+#### CNN Model 
 
 <table>
 <tr><th>120 Breeds </th><th> 9 Groups </th></tr>
@@ -69,6 +69,8 @@ CNN Model Accuracy
 
 An Example of CNN Confusion Matrix
 
+#### Inception V3 Model
+
 <table>
 <tr><th>120 Breeds </th><th> 9 Groups </th></tr>
 <tr><td>
@@ -76,14 +78,14 @@ An Example of CNN Confusion Matrix
 |Dataset | Accuracy |
 | ----------- | -------- |
 | Training  | X%|
-| Validation  | X |
+| Validation  | X%|
 
 </td><td>
 
 |Dataset | Accuracy |
 | ----------- | -------- |
 | Training  | X%|
-| Validation  | X |
+| Validation  | X%|
 
 </td></tr> </table>
 
