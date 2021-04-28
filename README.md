@@ -46,7 +46,7 @@ The core idea of Inception V3:
 
 <img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN%20Layers%20Explain/InceptionV3.png" width="802" height="392">
 
-### CNN Baseline Performance VS. Inception V3 Performance
+### CNN Baseline Model Performance VS. Inception V3 Model Performance
 #### CNN Model 
 
 <table>
