@@ -49,16 +49,6 @@ The core idea of Inception V3:
 ### CNN Baseline Performance VS. Inception V3 Performance
 CNN Model Accuracy
 
-| **120 Breeds** |  |
-| ------------- | ------------- |
-| Training  | 3.88%|
-| Validation  | 3.34% |
-
-| **9 Groups** |  |
-| ------------- | ------------- |
-| Training  | 28.23%|
-| Validation  | 26.24% |
-
 <table>
 <tr><th>120 Breeds </th><th> 9 Groups </th></tr>
 <tr><td>
@@ -79,16 +69,23 @@ CNN Model Accuracy
 
 An Example of CNN Confusion Matrix
 
-Inception V3 Model Accuracy
-| **120 Breeds** |  |
-| ------------- | ------------- |
-| Training Dataset | XXX%|
-| Validation Dataset | XXX% |
+<table>
+<tr><th>120 Breeds </th><th> 9 Groups </th></tr>
+<tr><td>
 
-| **9 Groups** |  |
-| ------------- | ------------- |
-| Training Dataset | XXX%|
-| Validation Dataset | XXX% |
+|Dataset | Accuracy |
+| ----------- | -------- |
+| Training  | X%|
+| Validation  | X |
+
+</td><td>
+
+|Dataset | Accuracy |
+| ----------- | -------- |
+| Training  | X%|
+| Validation  | X |
+
+</td></tr> </table>
 
 An Example of CNN Confusion Matrix
 
