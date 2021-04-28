@@ -22,6 +22,7 @@ The CNN consists of 3 layers:
 1. Convolution (filter)
       * Scan through the image to get **features** of an image
       * Try to detect edge & shape 
+      * Follow by Activation Map
       * <img src="https://github.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/blob/main/Images/CNN%20Layers%20Explain/Convolution.PNG" width="434" height="200">
 2. Pooling
       * Get the most important feature
@@ -34,4 +35,4 @@ The CNN consists of 3 layers:
 
 Our final CNN baseline model consists of 5 layers. 
 
-<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN_Baseline.PNG" width="960" height="354">
+<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN_Baseline.PNG" width="900" height="294">
