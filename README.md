@@ -33,6 +33,18 @@ The CNN consists of 3 layers:
       * Make prediction with associate features
       * <img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN%20Layers%20Explain/Fully_Connected.PNG" width="441" height="241">
 
-Our final CNN baseline model consists of 5 layers. 
+Our final CNN baseline model consists of 5 layers. With a total of 4 filter and pooling layers and 1 fully connected layer.
 
 <img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN_Baseline.PNG" width="930" height="344">
+
+### Transfer Learning - Inception V3 Model
+Inception V3 Model is a pre-trained model on more than a million images, 1,000 classes from the ImageNet database developed by Google. It has stacked layers compare to the traditional CNN model and it is up to 48 layers. V3 here means version 3.
+
+The core idea of Inception V3:
+1. Multiple fitter layers with the different sizes running at the same level.
+2. 1x1 convolution before processing 3v3 or 5v5 filter layers to reduce the dimension of the image.
+3. 
+<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN%20Layers%20Explain/InceptionV3.png" width="902" height="392">
+
+
+
