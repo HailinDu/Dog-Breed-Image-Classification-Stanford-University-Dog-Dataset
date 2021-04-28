@@ -41,10 +41,36 @@ Our final CNN baseline model consists of 5 layers. With a total of 4 filter and 
 Inception V3 Model is a pre-trained model on more than a million images, 1,000 classes from the ImageNet database developed by Google. It has stacked layers compare to the traditional CNN model and it is up to 48 layers. V3 here means version 3.
 
 The core idea of Inception V3:
-1. Multiple fitter layers with the different sizes running at the same level.
+1. Multiple fitter layers with different sizes running at the same level.
 2. 1x1 convolution before processing 3v3 or 5v5 filter layers to reduce the dimension of the image.
 
 <img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN%20Layers%20Explain/InceptionV3.png" width="802" height="392">
 
+### CNN Baseline Performance VS. Inception V3 Performance
+CNN Model Accuracy
 
+| **120 Breeds** |  |
+| ------------- | ------------- |
+| Training  | 3.88%|
+| Validation  | 3.34% |
+
+| **9 Groups** |  |
+| ------------- | ------------- |
+| Training  | 28.23%|
+| Validation  | 26.24% |
+
+An Example of CNN Confusion Matrix
+
+Inception V3 Model Accuracy
+| **120 Breeds** |  |
+| ------------- | ------------- |
+| Training  | XXX%|
+| Validation  | XXX% |
+
+| **9 Groups** |  |
+| ------------- | ------------- |
+| Training  | XXX%|
+| Validation  | XXX% |
+
+An Example of CNN Confusion Matrix
 
