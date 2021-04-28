@@ -43,8 +43,8 @@ Inception V3 Model is a pre-trained model on more than a million images, 1,000 c
 The core idea of Inception V3:
 1. Multiple fitter layers with the different sizes running at the same level.
 2. 1x1 convolution before processing 3v3 or 5v5 filter layers to reduce the dimension of the image.
-3. 
-<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN%20Layers%20Explain/InceptionV3.png" width="902" height="392">
+
+<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN%20Layers%20Explain/InceptionV3.png" width="802" height="392">
 
 
 
