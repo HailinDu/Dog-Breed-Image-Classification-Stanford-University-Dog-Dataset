@@ -59,18 +59,36 @@ CNN Model Accuracy
 | Training  | 28.23%|
 | Validation  | 26.24% |
 
+<table>
+<tr><th>120 Breeds </th><th> 9 Groups </th></tr>
+<tr><td>
+
+|Dataset | Accuracy |
+| ----------- | -------- |
+| Training  | 3.88%|
+| Validation  | 3.34% |
+
+</td><td>
+
+|Dataset | Accuracy |
+| ----------- | -------- |
+| Training  | 28.23%|
+| Validation  | 26.24% |
+
+</td></tr> </table>
+
 An Example of CNN Confusion Matrix
 
 Inception V3 Model Accuracy
 | **120 Breeds** |  |
 | ------------- | ------------- |
-| Training  | XXX%|
-| Validation  | XXX% |
+| Training Dataset | XXX%|
+| Validation Dataset | XXX% |
 
 | **9 Groups** |  |
 | ------------- | ------------- |
-| Training  | XXX%|
-| Validation  | XXX% |
+| Training Dataset | XXX%|
+| Validation Dataset | XXX% |
 
 An Example of CNN Confusion Matrix
 
