@@ -7,3 +7,10 @@ Also, as a future dog parent, understanding the difference between breeds and ge
 
 ![Puppy](https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/Happy%20Puppy%20Cover.jpg)
 
+### Dataset & Data Preprocessing 
+The dataset is from [Stanford University](http://vision.stanford.edu/aditya86/ImageNetDogs/main.html), with a total of 20580 images and 120 breeds. Also, we can do one extra step to help us better understand the difference between dogs, which is to use the American Kennel Club's [List of Breeds by Group](https://www.akc.org/public-education/resources/general-tips-information/dog-breeds-sorted-groups/) information to assign 120 breeds into nine groups. By doing that, we may able to discover more insights about puppies. 
+
+
+
+
+ 
