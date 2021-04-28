@@ -1,1 +1,2 @@
-# Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset
+# Dog-Breed-Image-Classification
+## Stanford-University-Dog-Dataset
