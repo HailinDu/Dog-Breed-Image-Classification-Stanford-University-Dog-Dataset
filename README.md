@@ -35,4 +35,4 @@ The CNN consists of 3 layers:
 
 Our final CNN baseline model consists of 5 layers. 
 
-<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN_Baseline.PNG" width="900" height="294">
+<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN_Baseline.PNG" width="930" height="344">
