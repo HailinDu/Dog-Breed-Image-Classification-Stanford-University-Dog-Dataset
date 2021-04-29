@@ -94,3 +94,12 @@ An Example of CNN Confusion Matrix
 An Example of CNN Confusion Matrix
 
 <img src="https://github.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/blob/main/Images/InceptionV3_confusion_matrix.PNG" width="500" height="500">
+
+An Example of Puppy being Misclassified
+<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/Example_Misclassified.PNG" width="675" height="350">
+
+### Challenges
+1. Small Sample Size (20580 images for 120 breeds – Average 172 Images).
+2. Images include many surrounding features that are not helpful to identify the breed.
+3. No standard of features. Puppy will grow in different sizes and has different features (eg, puppy ears will grow bigger overtimes).
+
