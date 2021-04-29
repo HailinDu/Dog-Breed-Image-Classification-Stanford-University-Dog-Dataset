@@ -79,8 +79,8 @@ An Example of CNN Confusion Matrix
 
 |Dataset | Accuracy |
 | ----------- | -------- |
-| Training  | X%|
-| Validation  | X%|
+| Training  | 75.5%|
+| Validation  | 73.0%|
 
 </td><td>
 
