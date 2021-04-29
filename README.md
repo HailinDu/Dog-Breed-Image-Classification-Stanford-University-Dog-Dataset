@@ -107,7 +107,8 @@ An Example of Puppy being Misclassified
 We can always add more functionalities to it, such as identify other animals. If the image is a cat, we will not make any prediction of the breed. We can also develop an interactive application to allow users to upload their images and see which breed they look similar to.
 
 ##### Reference
-1. [COMPUTER VISION - Keras ImageDataGenerator with flow_from_dataframe()](https://studymachinelearning.com/keras-imagedatagenerator-with-flow_from_dataframe/)
-2. [Novel Dataset for Fine-Grained Image Categorization: Stanford Dogs](http://people.csail.mit.edu/khosla/papers/fgvc2011.pdf)
-3. [How to easily build a Dog breed Image classification model](https://medium.com/nanonets/how-to-easily-build-a-dog-breed-image-classification-model-2fd214419cde)
+1. [Keras - Image data preprocessing](https://keras.io/api/preprocessing/image/)
+2. [COMPUTER VISION - Keras ImageDataGenerator with flow_from_dataframe()](https://studymachinelearning.com/keras-imagedatagenerator-with-flow_from_dataframe/)
+3. [Novel Dataset for Fine-Grained Image Categorization: Stanford Dogs](http://people.csail.mit.edu/khosla/papers/fgvc2011.pdf)
+4. [How to easily build a Dog breed Image classification model](https://medium.com/nanonets/how-to-easily-build-a-dog-breed-image-classification-model-2fd214419cde)
 
