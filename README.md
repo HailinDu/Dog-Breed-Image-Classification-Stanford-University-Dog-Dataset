@@ -69,6 +69,8 @@ The core idea of Inception V3:
 
 An Example of CNN Confusion Matrix
 
+<img src="https://raw.githubusercontent.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/main/Images/CNN_confusion_matrix.png" width="500" height="500">
+
 #### Inception V3 Model
 
 <table>
@@ -91,4 +93,4 @@ An Example of CNN Confusion Matrix
 
 An Example of CNN Confusion Matrix
 
-
+<img src="https://github.com/HailinDu/Dog-Breed-Image-Classification-Stanford-University-Dog-Dataset/blob/main/Images/InceptionV3_confusion_matrix.PNG" width="500" height="500">
